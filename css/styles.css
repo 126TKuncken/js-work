@@ -204,7 +204,7 @@ body {
   -webkit-animation:move-twink-back 200s linear infinite;
   animation:move-twink-back 200s linear infinite;
   }
-  /* MOON */
+
   .moon {
     border-radius: 50%;
     background-image: -moz-radial-gradient( 50% 50%, circle closest-side, rgb(208,219,230) 0%, rgb(223,226,233) 50%, rgb(228,232,239) 100%);
